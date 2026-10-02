@@ -2,7 +2,7 @@
 
 Repositori del Projecte 2 de SMX
 
-Projecte 2
+# Projecte 2
 
 Nom i cognoms: Sergio Chacon Lopez
 
