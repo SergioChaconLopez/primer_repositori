@@ -51,7 +51,7 @@ lscpu
 
 ## Imatge
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Computer_parts.jpg/800px-Computer_parts.jpg
+![Muntatge de la CPU](geforce.webp)
 
 ## Recursos
 
