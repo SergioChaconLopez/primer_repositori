@@ -97,3 +97,12 @@ Aquest sistema permet mantenir un historial ordenat de la documentació i recupe
 [Documentació oficial de Git](https://git-scm.com/doc/)
 Documentació del fabricant de la placa base.
 Documentació del fabricant dels components utilitzats.
+
+
+
+
+# Hola
+
+holadasefsfse
+
+![Prova](img/captura1.png)
